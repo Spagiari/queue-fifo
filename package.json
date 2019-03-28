@@ -32,6 +32,6 @@
     "nyc": "^11.4.0"
   },
   "dependencies": {
-    "dbly-linked-list": "0.2.0"
+    "dbly-linked-list": "github:Spagiari/doubly-linked-list#master"
   }
 }
